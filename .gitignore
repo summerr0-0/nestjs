@@ -1,5 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/node,webstorm
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,webstorm
+.DS_Store
 
 ### Node ###
 # Logs
@@ -7,7 +8,7 @@ logs
 *.log
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
+yarn-error.log*gtg
 lerna-debug.log*
 .pnpm-debug.log*
 
@@ -94,7 +95,6 @@ out
 # Nuxt.js build / generate output
 .nuxt
 dist
-
 # Gatsby files
 .cache/
 # Comment in the public line in if your project uses Gatsby and not Next.js
